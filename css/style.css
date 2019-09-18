@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=El+Messiri&display=swap');
+
+body{
+    background-color: rgb(252, 251, 215);
+    color: rgb(243, 71, 28);
+}
+
+.main-heading{
+    background-color: rgb(227, 241, 146);
+}
+
+.heading{
+    font-family: 'El Messiri', sans-serif;
+    text-align: center;
+    padding: 100px 100px;
+
+}
+
+h2{
+    text-align: center;
+    padding: 100px 100px;
+}
